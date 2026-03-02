@@ -61,6 +61,12 @@ Implementación de aplicación para digitalizar flujos operativos y reducir tare
 
 ---
 
+## Objetivo Profesional
+
+Interesado en organizaciones que busquen transformar procesos mediante software y datos.
+
+---
+
 ## Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Milton%20Cuervo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miltoncuervo)
@@ -69,15 +75,7 @@ Implementación de aplicación para digitalizar flujos operativos y reducir tare
 
 ---
 
-## Objetivo Profesional
 
-Primera experiencia profesional en entornos donde pueda contribuir como:
-
-- Backend Developer Junior  
-- Data Analyst Junior  
-- Implementador de soluciones de automatización  
-
-Interesado en organizaciones que busquen transformar procesos mediante software y datos.
 
 <!--
 **MiltonCuervo/MiltonCuervo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
