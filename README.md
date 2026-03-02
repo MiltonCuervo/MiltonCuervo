@@ -15,7 +15,7 @@ Mi enfoque combina desarrollo técnico con comprensión del flujo operativo de l
 
 ---
 
-## 🛠 Stack Principal
+## Stack Principal
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -25,7 +25,7 @@ Mi enfoque combina desarrollo técnico con comprensión del flujo operativo de l
 
 ---
 
-## ⚙️ Metodologías de Trabajo
+## Metodologías de Trabajo
 
 ![Scrum](https://img.shields.io/badge/Scrum-Agile_Framework-6DB33F?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-Workflow_Management-0052CC?style=for-the-badge)
@@ -63,9 +63,9 @@ Implementación de aplicación para digitalizar flujos operativos y reducir tare
 
 ## Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milton%20Cuervo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINK)
-[![Gmail](https://img.shields.io/badge/Email-TU_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-MiltonCuervo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milton%20Cuervo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miltoncuervo)
+[![Gmail](https://img.shields.io/badge/Email-TU_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miltonalejo.cr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MiltonCuervo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiltonCuervo)
 
 ---
 
