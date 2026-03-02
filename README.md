@@ -70,7 +70,7 @@ Interesado en organizaciones que busquen transformar procesos mediante software 
 ## Contáctame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Milton%20Cuervo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miltoncuervo)
-[![Gmail](https://img.shields.io/badge/Email-TU_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miltonalejo.cr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-miltonalejo.cr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miltonalejo.cr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MiltonCuervo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiltonCuervo)
 
 ---
