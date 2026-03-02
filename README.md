@@ -65,7 +65,7 @@ API backend desarrollada con FastApi para la gestión de reservas de espacios pu
 
 ## Contacto
 
-LinkedIn: linkedin.com/in/miltoncuervo
+LinkedIn: www.linkedin.com/in/miltoncuervo
 Email: miltonalejo.cr@gmail.com
 
 <!--
