@@ -41,11 +41,11 @@ He trabajado bajo marcos ágiles utilizando:
 
 ## Proyectos Destacados
 
-### 🔹 Backend API – Gestión Empresarial
-API desarrollada con Spring Boot para estructurar procesos internos mediante arquitectura en capas, conexión a base de datos y manejo controlado de errores.
+### 🔹 CITASALUD
+API backend desarrollada con Spring Boot para la gestión estructurada de citas, con conexión a base de datos y arquitectura modular.
 
-### 🔹 Análisis de Datos – Pipeline en Python
-Proyecto de transformación y análisis de datos usando Pandas y NumPy para extracción de insights y preparación de información para toma de decisiones.
+### 🔹 Sistema de reservas de espacios
+API backend desarrollada con FastApi para la gestión de reservas de espacios publicos, con conexión a base de datos, arquitectura hexagonal y visualización de reportes con métricas.
 
 ### 🔹 Automatización de Procesos en Universidad de Antioquia – Power Platform
 Implementación de aplicación para digitalizar flujos operativos y reducir tareas manuales mediante integración de servicios.
