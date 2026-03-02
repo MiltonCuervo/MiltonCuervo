@@ -47,7 +47,7 @@ API desarrollada con Spring Boot para estructurar procesos internos mediante arq
 ### 🔹 Análisis de Datos – Pipeline en Python
 Proyecto de transformación y análisis de datos usando Pandas y NumPy para extracción de insights y preparación de información para toma de decisiones.
 
-### 🔹 Automatización de Procesos – Power Platform
+### 🔹 Automatización de Procesos en Universidad de Antioquia – Power Platform
 Implementación de aplicación para digitalizar flujos operativos y reducir tareas manuales mediante integración de servicios.
 
 ---
